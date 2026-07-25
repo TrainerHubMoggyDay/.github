@@ -1,78 +1,45 @@
-<img width="1536" height="1024" alt="moggyday-trainer-banner" src="https://github.com/user-attachments/assets/f109ebba-f27c-480f-87dc-a55633854bfa" />
-
+<p align="center">
+  <img src="./banner.png" alt="TrainerHub MoggyDay" width="100%"/>
+</p>
 
 <p align="center">
   <strong>TrainerHub MoggyDay</strong><br/>
-  <em>Game trainers · clients · tools</em>
+  <em>Game trainers · first updates always on GitHub</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/org-TrainerHubMoggyDay-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="org"/></a>
-  <a href="https://github.com/orgs/TrainerHubMoggyDay/repositories"><img src="https://img.shields.io/badge/focus-Trainers-22c55e?style=for-the-badge" alt="trainers"/></a>
-  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/status-Active-111827?style=for-the-badge" alt="status"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.0.0/AC.Black.Flag.Resynced.BlackSails.Trainer.zip"><img src="https://img.shields.io/badge/%F0%9F%93%A5%20СКАЧАТЬ%20ПЕРВЫЙ%20ТРЕЙНЕР-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/></a>
+  &nbsp;
+  <a href="https://youtu.be/UqLrj-KyjLs"><img src="https://img.shields.io/badge/YouTube-Тест-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
 
-## Добро пожаловать
+## Первый релиз
 
-**TrainerHub MoggyDay** — хаб открытых трейнеров и игровых утилит.  
-Здесь каждый проект живёт в своём репозитории: чистый README, версии, релизы и понятная структура.
+### Assassin's Creed Black Flag **Resynced** (ремейк)
+**God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit**
 
-> Один репозиторий = один трейнер / клиент / инструмент.
+- Репозиторий: [Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport)
+- Скачать ZIP: [v1.0.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.0.0/AC.Black.Flag.Resynced.BlackSails.Trainer.zip)
+- Видео: [YouTube](https://youtu.be/UqLrj-KyjLs)
+- VGtimes: [пост](https://vgtimes.ru/games/assassins-creed-black-flag-resynced/files/96329-assassins-creed-black-flag-resynced.html)
 
-## Направления
+> Первые обновления всегда выходят здесь, на GitHub.
 
-| | Раздел | Что публикуем |
-|---|--------|----------------|
-| 🎮 | **Trainers** | Трейнеры под конкретные игры |
-| ⚡ | **Clients** | Клиенты и ClickGUI-утилиты |
-| 🛠️ | **Tools** | Лоадеры, билдеры, хелперы |
-| 📚 | **Docs** | Шаблоны, гайды, примеры |
+---
 
-## Проекты
+## О нас
 
-Все репозитории организации:
+**TrainerHub MoggyDay** — хаб трейнеров и игровых утилит.  
+Один репозиторий = один продукт. EN / RU.
 
-**→ [Browse repositories](https://github.com/orgs/TrainerHubMoggyDay/repositories)**
-
-<!-- Раскомментируйте и дополните после публикации:
-
-### Featured
-
-| Проект | Игра / тип | Статус |
-|--------|------------|--------|
-| [Quantum-Client](https://github.com/TrainerHubMoggyDay/Quantum-Client) | Minecraft utility | Active |
-
--->
-
-## Как мы публикуем
-
-```text
-1. Отдельный репозиторий на продукт
-2. README: игра, версия, установка, хоткеи
-3. GitHub Release + тег vX.Y.Z
-4. Issues — баги и предложения
-```
-
-## Для сообщества
-
-- Уважайте правила игр и законы вашей страны  
-- Не выкладывайте чужой код без разрешения  
-- Не публикуйте вредоносное ПО  
-- Учебные / демо-проекты помечайте явно  
-
-## Контакты
+---
 
 <p align="center">
-  <a href="https://github.com/TrainerHubMoggyDay">Organization</a>
-  ·
+  <a href="https://github.com/TrainerHubMoggyDay">Organization</a> ·
   <a href="https://github.com/orgs/TrainerHubMoggyDay/repositories">Repositories</a>
-  ·
-  <a href="https://github.com/orgs/TrainerHubMoggyDay/people">Team</a>
 </p>
-
----
 
 <p align="center">
   <sub>© 2026 TrainerHub MoggyDay · train · build · share</sub>
