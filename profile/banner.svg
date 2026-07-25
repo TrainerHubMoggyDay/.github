@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="TrainerHub MoggyDay">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#84cc16"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#accent)"/>
+
+  <!-- monogram block -->
+  <rect x="72" y="88" width="144" height="144" rx="28" fill="#0ea5e9" fill-opacity="0.12" stroke="#22d3ee" stroke-width="2"/>
+  <text x="144" y="182" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#22d3ee">TH</text>
+
+  <text x="260" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" fill="#f8fafc">TrainerHub</text>
+  <text x="260" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="600" fill="#84cc16">MoggyDay</text>
+  <text x="260" y="245" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#94a3b8">game trainers · clients · tools</text>
+
+  <rect x="980" y="120" width="220" height="80" rx="16" fill="#022c22" stroke="#84cc16" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="1090" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#86efac">STATUS</text>
+  <text x="1090" y="182" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0fdf4">ACTIVE 2026</text>
+</svg>
