@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./banner.png" alt="TrainerHub MoggyDay" width="100%"/>
-</p>
+<img width="1536" height="1024" alt="moggyday-trainer-banner" src="https://github.com/user-attachments/assets/adf3ea01-a164-430a-a38b-33bc7dc31548" />
+
 
 <p align="center">
   <strong>TrainerHub MoggyDay</strong><br/>
