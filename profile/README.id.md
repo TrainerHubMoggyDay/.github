@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>TrainerHub MoggyDay</strong><br/>
-  <em>Game trainers · релизы · инструменты</em>
+  <em>Trainer game · rilis · tools</em>
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
   <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/status-Active-111827?style=for-the-badge" alt="status"/></a>
 </p>
 
-**Languages / Языки:** **Русский** · [English](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.en.md) · [Українська](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.uk.md) · [简体中文](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.zh.md) · [Türkçe](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.tr.md) · [Español](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.es.md) · [Slovenščina](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.sl.md) · [Português](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pt.md) · [Polski](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pl.md) · [Indonesia](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.id.md) · [Deutsch](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.de.md) · [Français](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.fr.md)
+**Languages / Языки:** [Русский](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.md) · [English](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.en.md) · [Українська](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.uk.md) · [简体中文](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.zh.md) · [Türkçe](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.tr.md) · [Español](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.es.md) · [Slovenščina](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.sl.md) · [Português](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pt.md) · [Polski](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pl.md) · **Indonesia** · [Deutsch](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.de.md) · [Français](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.fr.md)
 
 ---
 
-## Добро пожаловать / Welcome
+## Selamat datang / Welcome
 
-**TrainerHub MoggyDay** — открытый хаб трейнеров и игровых утилит.
-Каждый проект — отдельный репозиторий: README, версии, релизы и понятная структура.
+**TrainerHub MoggyDay** adalah hub terbuka untuk trainer game dan utilitas.
+Setiap proyek punya repositori sendiri: README, versi, rilis, dan struktur yang jelas.
 
-> **Первые обновления всегда выходят на GitHub.**
+> **Update pertama selalu keluar di GitHub.**
 
 > One repo = one trainer / client / tool.
 
@@ -30,7 +30,7 @@
 
 ### 1. Gothic 1 Remake **+38**
 
-Трейнер **+38** для **Gothic 1 Remake** (2026).
+Trainer **+38** untuk **Gothic 1 Remake** (2026).
 God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 <p>
@@ -53,7 +53,7 @@ God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 ### 2. Forza Horizon 6 / 5 **+27** (Redline)
 
-Трейнер **+27** для **Forza Horizon 6** и **Forza Horizon 5**.
+Trainer **+27** untuk **Forza Horizon 6** dan **Forza Horizon 5**.
 Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 <p>
@@ -76,7 +76,7 @@ Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 ### 3. Cyberpunk 2077 **+46** (NetrunnerForge)
 
-Трейнер **+46** для **Cyberpunk 2077** (+ Phantom Liberty).
+Trainer **+46** untuk **Cyberpunk 2077** (+ Phantom Liberty).
 God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 <p>
@@ -97,7 +97,7 @@ God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 ### 4. Crimson Desert **+12**
 
-Трейнер **+12** для **Crimson Desert**.
+Trainer **+12** untuk **Crimson Desert**.
 Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 <p>
@@ -120,7 +120,7 @@ Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 ### 5. Assassin's Creed Black Flag **Resynced**
 
-Трейнер для ремейка **Assassin's Creed Black Flag Resynced** (не оригинал 2013).
+Trainer untuk remake **Assassin's Creed Black Flag Resynced** (bukan original 2013).
 God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 
 <p>
@@ -141,20 +141,20 @@ God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 
 ---
 
-## Направления
+## Fokus
 
-| | Раздел | Что публикуем |
+| | Bagian | Yang kami terbitkan |
 |---|--------|----------------|
-| 🎮 | **Trainers** | Трейнеры под конкретные игры |
-| ⚡ | **Clients** | Клиенты и ClickGUI-утилиты |
-| 🛠️ | **Tools** | Лоадеры, билдеры, хелперы |
-| 📚 | **Docs** | Шаблоны, гайды, примеры |
+| 🎮 | **Trainers** | Trainer untuk game tertentu |
+| ⚡ | **Clients** | Klien dan utilitas ClickGUI |
+| 🛠️ | **Tools** | Loader, builder, helper |
+| 📚 | **Docs** | Template, panduan, contoh |
 
-## Как мы публикуем
+## Cara kami menerbitkan
 
 ```text
-1. Отдельный репозиторий на продукт
-2. README: игра, версия, установка, хоткеи
-3. GitHub Release + тег vX.Y.Z
-4. Issues — баги и предложения
+1. Satu repositori per produk
+2. README: game, versi, instalasi, hotkey
+3. GitHub Release + tag vX.Y.Z
+4. Issues — bug dan saran
 ```

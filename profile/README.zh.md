@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>TrainerHub MoggyDay</strong><br/>
-  <em>Game trainers · релизы · инструменты</em>
+  <em>游戏修改器 · 发布 · 工具</em>
 </p>
 
 <p align="center">
@@ -11,26 +11,26 @@
   <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/status-Active-111827?style=for-the-badge" alt="status"/></a>
 </p>
 
-**Languages / Языки:** **Русский** · [English](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.en.md) · [Українська](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.uk.md) · [简体中文](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.zh.md) · [Türkçe](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.tr.md) · [Español](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.es.md) · [Slovenščina](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.sl.md) · [Português](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pt.md) · [Polski](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pl.md) · [Indonesia](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.id.md) · [Deutsch](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.de.md) · [Français](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.fr.md)
+**Languages / Языки:** [Русский](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.md) · [English](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.en.md) · [Українська](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.uk.md) · **简体中文** · [Türkçe](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.tr.md) · [Español](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.es.md) · [Slovenščina](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.sl.md) · [Português](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pt.md) · [Polski](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pl.md) · [Indonesia](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.id.md) · [Deutsch](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.de.md) · [Français](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.fr.md)
 
 ---
 
-## Добро пожаловать / Welcome
+## 欢迎 / Welcome
 
-**TrainerHub MoggyDay** — открытый хаб трейнеров и игровых утилит.
-Каждый проект — отдельный репозиторий: README, версии, релизы и понятная структура.
+**TrainerHub MoggyDay** 是开放的游戏修改器与工具中心。
+每个项目都是独立仓库：README、版本、Release 与清晰结构。
 
-> **Первые обновления всегда выходят на GitHub.**
+> **更新始终优先发布在 GitHub。**
 
 > One repo = one trainer / client / tool.
 
 ---
 
-## ⭐ Featured Trainers
+## ⭐ 精选修改器
 
 ### 1. Gothic 1 Remake **+38**
 
-Трейнер **+38** для **Gothic 1 Remake** (2026).
+**Gothic 1 Remake**（2026）的 **+38** 修改器。
 God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 <p>
@@ -53,7 +53,7 @@ God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 ### 2. Forza Horizon 6 / 5 **+27** (Redline)
 
-Трейнер **+27** для **Forza Horizon 6** и **Forza Horizon 5**.
+适用于 **Forza Horizon 6** 与 **Forza Horizon 5** 的 **+27** 修改器。
 Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 <p>
@@ -76,7 +76,7 @@ Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 ### 3. Cyberpunk 2077 **+46** (NetrunnerForge)
 
-Трейнер **+46** для **Cyberpunk 2077** (+ Phantom Liberty).
+适用于 **Cyberpunk 2077**（含 Phantom Liberty）的 **+46** 修改器。
 God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 <p>
@@ -97,7 +97,7 @@ God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 ### 4. Crimson Desert **+12**
 
-Трейнер **+12** для **Crimson Desert**.
+**Crimson Desert** 的 **+12** 修改器。
 Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 <p>
@@ -120,7 +120,7 @@ Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 ### 5. Assassin's Creed Black Flag **Resynced**
 
-Трейнер для ремейка **Assassin's Creed Black Flag Resynced** (не оригинал 2013).
+**Assassin's Creed Black Flag Resynced** 重制版修改器（非 2013 原版）。
 God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 
 <p>
@@ -141,20 +141,20 @@ God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 
 ---
 
-## Направления
+## 方向
 
-| | Раздел | Что публикуем |
+| | 栏目 | 我们发布什么 |
 |---|--------|----------------|
-| 🎮 | **Trainers** | Трейнеры под конкретные игры |
-| ⚡ | **Clients** | Клиенты и ClickGUI-утилиты |
-| 🛠️ | **Tools** | Лоадеры, билдеры, хелперы |
-| 📚 | **Docs** | Шаблоны, гайды, примеры |
+| 🎮 | **Trainers** | 针对特定游戏的修改器 |
+| ⚡ | **Clients** | 客户端与 ClickGUI 工具 |
+| 🛠️ | **Tools** | 加载器、构建器、辅助工具 |
+| 📚 | **Docs** | 模板、指南、示例 |
 
-## Как мы публикуем
+## 发布方式
 
 ```text
-1. Отдельный репозиторий на продукт
-2. README: игра, версия, установка, хоткеи
-3. GitHub Release + тег vX.Y.Z
-4. Issues — баги и предложения
+1. 每个产品独立仓库
+2. README：游戏、版本、安装、热键
+3. GitHub Release + 标签 vX.Y.Z
+4. Issues — 反馈与建议
 ```
