@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/org-TrainerHubMoggyDay-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="org"/></a>
+  <a href="https://moggydaytrainer.com/"><img src="https://img.shields.io/badge/site-moggydaytrainer.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="site"/></a>
+  <a href="https://t.me/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/org-TrainerHubMoggyDay-111827?style=for-the-badge&logo=github&logoColor=white" alt="org"/></a>
   <a href="https://github.com/orgs/TrainerHubMoggyDay/repositories"><img src="https://img.shields.io/badge/trainers-9-22c55e?style=for-the-badge" alt="trainers"/></a>
-  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/status-Active-111827?style=for-the-badge" alt="status"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/UI-EN%20%7C%20RU%20%7C%20CN-0ea5e9?style=for-the-badge" alt="ui"/></a>
 </p>
 
 **Languages / Языки:** [Русский](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.md) · **English** · [Українська](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.uk.md) · [简体中文](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.zh.md) · [Türkçe](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.tr.md) · [Español](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.es.md) · [Slovenščina](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.sl.md) · [Português](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pt.md) · [Polski](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.pl.md) · [Indonesia](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.id.md) · [Deutsch](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.de.md) · [Français](https://github.com/TrainerHubMoggyDay/.github/blob/main/profile/README.fr.md)
@@ -17,47 +19,72 @@
 
 ## Welcome
 
-**TrainerHub MoggyDay** is an open hub for game trainers and utilities.
-Each project is its own repository: README, versions, releases, and a clear structure.
+**TrainerHub MoggyDay** is an open hub for game trainers and utilities by **Александор**.
+Each project is its own repository: READMEs in **12 languages**, versions, releases, and a clear structure.
+All trainer UIs: **EN / RU / CN (简体中文)**.
 
-> **First updates always ship on GitHub.**
+> **First updates ship on GitHub, the official site, and Telegram.**
 
 > One repo = one trainer / client / tool.
 
 ---
 
+## 🔗 Official links
+
+| | Link |
+|---|------|
+| 🌐 **Website** | **[moggydaytrainer.com](https://moggydaytrainer.com/)** — trainer catalog, descriptions, downloads |
+| 💬 **Telegram** | **[t.me/TrainerHubMoggyDay](https://t.me/TrainerHubMoggyDay)** — news, updates, release announcements |
+| 🐙 **GitHub** | **[TrainerHubMoggyDay](https://github.com/TrainerHubMoggyDay)** — source, Issues, Releases |
+| ▶️ **YouTube** | Feature tests — see trainer blocks below (Gothic, Forza, Crimson, Black Flag) |
+
+<p align="center">
+  <a href="https://moggydaytrainer.com/"><img src="https://img.shields.io/badge/Site-moggydaytrainer.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/></a>
+  &nbsp;
+  <a href="https://t.me/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/Telegram-TrainerHub%20MoggyDay-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/GitHub-TrainerHubMoggyDay-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  &nbsp;
+  <a href="https://youtu.be/1FA4r_4_w2c"><img src="https://img.shields.io/badge/YouTube-Tests-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+**Author:** Александор · **TrainerHub MoggyDay** · **offline / single-player only**
+
+---
+
 ## 🔥 What's new · August 2026
 
-Catalog-wide update from **TrainerHub MoggyDay**:
+Major **TrainerHub MoggyDay** catalog update:
 
-- **8 trainers → v1.2.0** — attach fixes + God Mode / economy / combat stability
-- **Assassin's Creed Black Flag Resynced → v1.4.0** — attach, Money, Jackdaw, Teleport, Ubisoft Connect
+- **NEW: Chinese UI (简体中文 / CN)** — in **all 9 trainers**; **EN / RU / CN** switch
+- **8 trainers → v1.3.0** — attach fixes, cheat stability, faster connection
+- **AC Black Flag Resynced → v1.5.0** — Chinese UI + Kenway / Jackdaw / Teleport
 - Latest ZIPs only via each repo's **GitHub Releases**
-- READMEs in **12 languages** per project
+- READMEs in **12 languages** · official site **[moggydaytrainer.com](https://moggydaytrainer.com/)**
 
 | Game | Version |
 |------|---------|
-| Resident Evil 4 Remake | **v1.2.0** |
-| Resident Evil Requiem | **v1.2.0** |
-| Elden Ring | **v1.2.0** |
-| DOOM: The Dark Ages | **v1.2.0** |
-| Crimson Desert | **v1.2.0** |
-| Cyberpunk 2077 | **v1.2.0** |
-| Forza Horizon 6 / 5 | **v1.2.0** |
-| Gothic 1 Remake | **v1.2.0** |
-| AC Black Flag Resynced | **v1.4.0** |
+| Resident Evil 4 Remake | **v1.3.0** |
+| Resident Evil Requiem | **v1.3.0** |
+| Elden Ring | **v1.3.0** |
+| DOOM: The Dark Ages | **v1.3.0** |
+| Crimson Desert | **v1.3.0** |
+| Cyberpunk 2077 | **v1.3.0** |
+| Forza Horizon 6 / 5 | **v1.3.0** |
+| Gothic 1 Remake | **v1.3.0** |
+| AC Black Flag Resynced | **v1.5.0** |
 
 ---
 
 ## ⭐ Featured Trainers
 
-### 1. Resident Evil 4 Remake **+40** (SurvivorForge · v1.2.0)
+### 1. Resident Evil 4 Remake (SurvivorForge +40 · v1.3.0)
 
-**+40 · v1.2.0** trainer for **Resident Evil 4 Remake**.
+Trainer **SurvivorForge +40 · v1.3.0** for **Resident Evil 4 Remake**.
 God Mode · Infinite Ammo · Pesetas · Unlock Weapons · Mercenaries
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.2.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.3.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
@@ -65,18 +92,19 @@ God Mode · Infinite Ammo · Pesetas · Unlock Weapons · Mercenaries
 | | |
 |---|---|
 | **Repo** | [Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries](https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries) |
-| **ZIP** | [Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.2.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.2.0.zip) |
-| **Features** | God Mode, Infinite Ammo, Pesetas, Unlock Weapons, Mercenaries (+40 · v1.2.0) |
+| **ZIP** | [Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-4-Remake-Trainer-GodMode-InfiniteAmmo-Pesetas-Mercenaries/releases/download/v1.3.0/Resident.Evil.4.Remake.SurvivorForge.Trainer.V1.3.0.zip) |
+| **Features** | God Mode · Infinite Ammo · Pesetas · Unlock Weapons · Mercenaries (SurvivorForge +40 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 2. Resident Evil Requiem **+28** (RequiemForge · v1.2.0)
+### 2. Resident Evil Requiem (RequiemForge +28 · v1.3.0)
 
-**+28 · v1.2.0** trainer for **Resident Evil Requiem**.
+Trainer **RequiemForge +28 · v1.3.0** for **Resident Evil Requiem**.
 God Mode · Infinite Ammo · One Hit · Auto-QTE · Credits · Teleport
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.2.0/Resident.Evil.Requiem.RequiemForge.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.3.0/Resident.Evil.Requiem.RequiemForge.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
@@ -84,18 +112,19 @@ God Mode · Infinite Ammo · One Hit · Auto-QTE · Credits · Teleport
 | | |
 |---|---|
 | **Repo** | [Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE](https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE) |
-| **ZIP** | [Resident.Evil.Requiem.RequiemForge.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.2.0/Resident.Evil.Requiem.RequiemForge.Trainer.V1.2.0.zip) |
-| **Features** | God Mode, Infinite Ammo, One Hit, Auto-QTE, Credits, Teleport (+28 · v1.2.0) |
+| **ZIP** | [Resident.Evil.Requiem.RequiemForge.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Resident-Evil-Requiem-Trainer-GodMode-InfiniteAmmo-OneHit-AutoQTE/releases/download/v1.3.0/Resident.Evil.Requiem.RequiemForge.Trainer.V1.3.0.zip) |
+| **Features** | God Mode · Infinite Ammo · One Hit · Auto-QTE · Credits · Teleport (RequiemForge +28 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 3. Elden Ring **+39** (TarnishedForge · v1.2.0)
+### 3. Elden Ring (TarnishedForge +39 · v1.3.0)
 
-**+39 · v1.2.0** trainer for **Elden Ring**.
+Trainer **TarnishedForge +39 · v1.3.0** for **Elden Ring**.
 God Mode · Infinite HP / FP / Stamina · Runes · One Hit · Map Unlock
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.2.0/Elden.Ring.Trainer.v1.2.0.TarnishedForge.+39.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.3.0/Elden.Ring.Trainer.v1.3.0.TarnishedForge.+39.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
@@ -103,18 +132,19 @@ God Mode · Infinite HP / FP / Stamina · Runes · One Hit · Map Unlock
 | | |
 |---|---|
 | **Repo** | [Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge](https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge) |
-| **ZIP** | [Elden.Ring.Trainer.v1.2.0.TarnishedForge.+39.zip](https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.2.0/Elden.Ring.Trainer.v1.2.0.TarnishedForge.+39.zip) |
-| **Features** | God Mode, Infinite HP/FP/Stamina, Runes, One Hit, Map Unlock (+39 · v1.2.0) |
+| **ZIP** | [Elden.Ring.Trainer.v1.3.0.TarnishedForge.+39.zip](https://github.com/TrainerHubMoggyDay/Elden-Ring-Trainer-GodMode-InfiniteHP-Runes-OneHit-TarnishedForge/releases/download/v1.3.0/Elden.Ring.Trainer.v1.3.0.TarnishedForge.+39.zip) |
+| **Features** | God Mode · Infinite HP / FP / Stamina · Runes · One Hit · Map Unlock (TarnishedForge +39 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 4. DOOM The Dark Ages **+23** (SlayerForge · v1.2.0)
+### 4. DOOM: The Dark Ages (SlayerForge +23 · v1.3.0)
 
-**+23 · v1.2.0** trainer for **DOOM: The Dark Ages**.
+Trainer **SlayerForge +23 · v1.3.0** for **DOOM: The Dark Ages**.
 God Mode · Infinite Ammo · One Hit · Gold · Mech / Dragon · Chain Spear
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.2.0/Doom.Dark.Ages.Slayer.Forge.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.3.0/Doom.Dark.Ages.Slayer.Forge.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
@@ -122,18 +152,19 @@ God Mode · Infinite Ammo · One Hit · Gold · Mech / Dragon · Chain Spear
 | | |
 |---|---|
 | **Repo** | [DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge](https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge) |
-| **ZIP** | [Doom.Dark.Ages.Slayer.Forge.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.2.0/Doom.Dark.Ages.Slayer.Forge.Trainer.V1.2.0.zip) |
-| **Features** | God Mode, Infinite Ammo, One Hit, Gold, Mech/Dragon HP, Chain Spear (+23 · v1.2.0) |
+| **ZIP** | [Doom.Dark.Ages.Slayer.Forge.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/DOOM-The-Dark-Ages-Trainer-GodMode-InfiniteAmmo-OneHit-SlayerForge/releases/download/v1.3.0/Doom.Dark.Ages.Slayer.Forge.Trainer.V1.3.0.zip) |
+| **Features** | God Mode · Infinite Ammo · One Hit · Gold · Mech / Dragon · Chain Spear (SlayerForge +23 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 5. Crimson Desert **+12** (v1.2.0)
+### 5. Crimson Desert (+12 · v1.3.0)
 
-**+12 · v1.2.0** trainer for **Crimson Desert**.
+Trainer **+12 · v1.3.0** for **Crimson Desert**.
 Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.2.0/Crimson.Desert.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.3.0/Crimson.Desert.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
   &nbsp;
@@ -143,18 +174,19 @@ Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time
 | | |
 |---|---|
 | **Repo** | [Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed) |
-| **ZIP** | [Crimson.Desert.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.2.0/Crimson.Desert.Trainer.V1.2.0.zip) |
-| **Features** | Infinite HP, Stamina, Spirit, One Hit, Money, Game Speed, Freeze Time (+12 · v1.2.0) |
+| **ZIP** | [Crimson.Desert.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.3.0/Crimson.Desert.Trainer.V1.3.0.zip) |
+| **Features** | Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time (+12 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 6. Cyberpunk 2077 **+46** (NetrunnerForge · v1.2.0)
+### 6. Cyberpunk 2077 (NetrunnerForge +46 · v1.3.0)
 
-**+46 · v1.2.0** trainer for **Cyberpunk 2077** (+ Phantom Liberty).
-God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
+Trainer **NetrunnerForge +46 · v1.3.0** for **Cyberpunk 2077**.
+God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Phantom Liberty
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.2.0/Cyberpunk2077_NetrunnerForgeTrainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.3.0/Cyberpunk2077_NetrunnerForgeTrainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
 </p>
@@ -162,18 +194,19 @@ God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Street Cred
 | | |
 |---|---|
 | **Repo** | [Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM) |
-| **ZIP** | [Cyberpunk2077_NetrunnerForgeTrainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.2.0/Cyberpunk2077_NetrunnerForgeTrainer.V1.2.0.zip) |
-| **Features** | God Mode, Money, One Hit, No Reload, Infinite RAM, XP, Street Cred (+46 · v1.2.0) |
+| **ZIP** | [Cyberpunk2077_NetrunnerForgeTrainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.3.0/Cyberpunk2077_NetrunnerForgeTrainer.V1.3.0.zip) |
+| **Features** | God Mode · Money · One Hit · No Reload · Infinite RAM · XP · Phantom Liberty (NetrunnerForge +46 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 7. Forza Horizon 6 / 5 **+27** (Redline · v1.2.0)
+### 7. Forza Horizon 6 / 5 (Redline +27 · v1.3.0)
 
-**+27 · v1.2.0** trainer for **Forza Horizon 6** and **Forza Horizon 5**.
+Trainer **Redline +27 · v1.3.0** for **Forza Horizon 6 / 5**.
 Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin/releases/download/v1.2.0/Forza.Horizon.6.Redline.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin/releases/download/v1.3.0/Forza.Horizon.6.Redline.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
   &nbsp;
@@ -183,18 +216,19 @@ Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins
 | | |
 |---|---|
 | **Repo** | [Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin](https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin) |
-| **ZIP** | [Forza.Horizon.6.Redline.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin/releases/download/v1.2.0/Forza.Horizon.6.Redline.Trainer.V1.2.0.zip) |
-| **Features** | Credits, Boost, No Damage, Free Cars, Auto-Win, Wheelspins (+27 · v1.2.0) |
+| **ZIP** | [Forza.Horizon.6.Redline.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Forza-Horizon-6-Trainer-Credits-Boost-NoDamage-FreeCars-AutoWin/releases/download/v1.3.0/Forza.Horizon.6.Redline.Trainer.V1.3.0.zip) |
+| **Features** | Credits · Boost · No Damage · Free Cars · Auto-Win · Wheelspins (Redline +27 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 8. Gothic 1 Remake **+38** (v1.2.0)
+### 8. Gothic 1 Remake (MoggyDays +38 · v1.3.0)
 
-**+38 · v1.2.0** trainer for **Gothic 1 Remake** (2026).
+Trainer **MoggyDays +38 · v1.3.0** for **Gothic 1 Remake**.
 God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre/releases/download/v1.2.0/Gothic.1.Remake.Trainer.V1.2.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre/releases/download/v1.3.0/Gothic.1.Remake.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
   &nbsp;
@@ -204,18 +238,19 @@ God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength
 | | |
 |---|---|
 | **Repo** | [Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre](https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre) |
-| **ZIP** | [Gothic.1.Remake.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre/releases/download/v1.2.0/Gothic.1.Remake.Trainer.V1.2.0.zip) |
-| **Features** | God Mode, Infinite HP/Mana, XP, Ore, Lockpicks, Strength (+38 · v1.2.0) |
+| **ZIP** | [Gothic.1.Remake.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Gothic-1-Remake-Cheats-GodMode-InfiniteHP-Mana-XP-InfiniteOre/releases/download/v1.3.0/Gothic.1.Remake.Trainer.V1.3.0.zip) |
+| **Features** | God Mode · Infinite HP / Mana · XP · Ore · Lockpicks · Strength (MoggyDays +38 · v1.3.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
-### 9. Assassin's Creed Black Flag **Resynced** (v1.4.0)
+### 9. Assassin's Creed Black Flag Resynced (BlackSails · v1.5.0)
 
-**v1.4.0** trainer for the **Assassin's Creed Black Flag Resynced** remake (not the 2013 original).
-God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
+Trainer **BlackSails · v1.5.0** for **Assassin's Creed Black Flag Resynced**.
+God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit (ACBFResynced)
 
 <p>
-  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.5.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.5.0.zip"><img src="https://img.shields.io/badge/Download%20ZIP-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport"><img src="https://img.shields.io/badge/Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
   &nbsp;
@@ -225,80 +260,53 @@ God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit
 | | |
 |---|---|
 | **Repo** | [Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport) |
-| **ZIP** | [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip) |
-| **Features** | God Mode, Infinite HP, Money, Jackdaw, Teleport, One Hit (v1.4.0) |
+| **ZIP** | [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.5.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.5.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.5.0.zip) |
+| **Features** | God Mode · Infinite HP · Money · Jackdaw · Teleport · One Hit (ACBFResynced) (BlackSails · v1.5.0) |
+| **UI** | EN / RU / CN (简体中文) |
 
 ---
 
 ## Focus areas
 
 | | Section | What we publish |
-|---|--------|----------------|
-| 🎮 | **Trainers** | Trainers for specific games |
+|---|---------|-----------------|
+| 🎮 | **Trainers** | Per-game trainers |
 | ⚡ | **Clients** | Clients and ClickGUI utilities |
 | 🛠️ | **Tools** | Loaders, builders, helpers |
 | 📚 | **Docs** | Templates, guides, examples |
 
-## How we publish
+---
+
+## How we ship
 
 ```text
 1. One repository per product
-2. README: game, version, install, hotkeys
-3. GitHub Release + tag vX.Y.Z
-4. Issues — bugs and requests
+2. README: game, version, install, hotkeys, 12 languages
+3. GitHub Release + tag vX.Y.Z + ZIP in Assets
+4. Announce on Telegram + moggydaytrainer.com
+5. Issues for bugs and suggestions
 ```
 
 ---
 
 ## SEO / Keywords
 
-### Global tags
+### Wave update
 
-`TrainerHub MoggyDay` · `TrainerHubMoggyDay` · `download game trainer` · `free game trainer download` · `PC trainer download` · `Windows trainer` · `game cheats download` · `game hack download` · `trainer hub 2026` · `best game trainers` · `latest trainer update` · `trainer github release` · `EN RU trainer` · `single player trainer` · `offline trainer` · `cheat trainer windows 10` · `cheat trainer windows 11` · `god mode trainer` · `infinite ammo trainer` · `one hit kill trainer` · `money hack trainer` · `map unlock trainer` · `trainer zip download` · `free trainer github` · `TrainerHub MoggyDay` · `скачать трейнер` · `трейнер скачать бесплатно` · `читы для игр скачать` · `взлом игр скачать` · `трейнер на ПК` · `трейнер Windows 10` · `трейнер Windows 11` · `хаб трейнеров` · `лучшие трейнеры 2026` · `обновление трейнера` · `трейнер github` · `трейнер EN RU` · `трейнер одиночная игра` · `бессмертие трейнер` · `бесконечные патроны трейнер` · `ваншот трейнер` · `деньги чит трейнер` · `скачать трейнер zip` · `бесплатный трейнер github`
+`trainer v1.3.0` · `trainer v1.5.0` · `Chinese UI update` · `moggydaytrainer.com` · `TrainerHub MoggyDay Telegram` · `RE4 v1.3.0` · `RE Requiem v1.3.0` · `Elden Ring v1.3.0` · `DOOM Dark Ages v1.3.0` · `Crimson Desert v1.3.0` · `Cyberpunk 2077 v1.3.0` · `Forza Horizon 6 v1.3.0` · `Gothic 1 Remake v1.3.0` · `ACBFResynced v1.5.0` · `BlackSails v1.5.0`
 
-### By game
+### Common
 
-**Resident Evil 4 Remake:** `RE4 Remake trainer` · `Resident Evil 4 Remake trainer download` · `RE4 trainer free` · `SurvivorForge` · `re4.exe trainer` · `RE4 god mode` · `RE4 infinite ammo` · `RE4 no reload` · `RE4 one hit kill` · `RE4 pesetas hack` · `RE4 unlock weapons` · `RE4 mercenaries trainer` · `RE4 easy crafting` · `RE4 infinite mayhem` · `RE4 Remake cheats` · `RE4 Remake hack` · `RE4 trainer v1.2.0` · `download RE4 Remake trainer`
+`TrainerHub MoggyDay` · `moggydaytrainer.com` · `t.me/TrainerHubMoggyDay` · `скачать трейнер` · `download game trainer` · `trainer v1.3.0` · `trainer v1.5.0` · `Chinese UI trainer` · `简体中文 修改器` · `EN RU CN trainer` · `offline single player trainer` · `god mode infinite ammo` · `TrainerHub MoggyDay update august 2026` · `Александор trainer`
 
-**Resident Evil Requiem:** `Resident Evil Requiem trainer` · `RE Requiem trainer download` · `RE9 trainer` · `RequiemForge` · `re9.exe trainer` · `RE9 god mode` · `RE9 infinite ammo` · `RE9 one hit kill` · `RE9 auto qte` · `RE9 unlock weapons` · `RE9 credits hack` · `RE9 teleport` · `RE9 map unlock` · `RE Requiem cheats` · `Resident Evil Requiem hack` · `RE9 trainer v1.2.0` · `free RE9 trainer`
+---
 
-**Elden Ring:** `Elden Ring trainer` · `Elden Ring trainer download` · `TarnishedForge` · `eldenring.exe trainer` · `Elden Ring god mode` · `Elden Ring infinite HP` · `Elden Ring infinite FP` · `Elden Ring infinite stamina` · `Elden Ring runes hack` · `Elden Ring one hit kill` · `Elden Ring map unlock` · `Elden Ring ashes of war` · `Elden Ring cheats` · `Elden Ring hack` · `Elden Ring trainer v1.2.0` · `free Elden Ring trainer`
+<p align="center">
+  <a href="https://moggydaytrainer.com/"><img src="https://img.shields.io/badge/Website-moggydaytrainer.com-0ea5e9?style=for-the-badge" alt="Site"/></a>
+  &nbsp;
+  <a href="https://t.me/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/Telegram-@TrainerHubMoggyDay-26A5E4?style=for-the-badge&logo=telegram" alt="TG"/></a>
+  &nbsp;
+  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/GitHub-TrainerHubMoggyDay-111827?style=for-the-badge&logo=github" alt="GH"/></a>
+</p>
 
-**DOOM The Dark Ages:** `DOOM The Dark Ages trainer` · `DOOM Dark Ages trainer download` · `SlayerForge` · `DOOMTheDarkAges.exe trainer` · `DOOM Dark Ages god mode` · `DOOM Dark Ages infinite ammo` · `DOOM Dark Ages one hit` · `DOOM Dark Ages gold hack` · `DOOM Dark Ages mech` · `DOOM Dark Ages dragon` · `DOOM Dark Ages cheats` · `DOOM Dark Ages hack` · `DOOM Dark Ages trainer v1.2.0`
-
-**Crimson Desert:** `Crimson Desert trainer` · `Crimson Desert trainer download` · `CrimsonDesert.exe trainer` · `Crimson Desert infinite HP` · `Crimson Desert stamina` · `Crimson Desert one hit` · `Crimson Desert money` · `Crimson Desert game speed` · `Crimson Desert freeze time` · `Crimson Desert cheats` · `Crimson Desert hack` · `Crimson Desert trainer v1.2.0`
-
-**Cyberpunk 2077:** `Cyberpunk 2077 trainer` · `Cyberpunk trainer download` · `NetrunnerForge` · `Cyberpunk2077.exe trainer` · `Cyberpunk god mode` · `Cyberpunk money hack` · `Cyberpunk eddies` · `Cyberpunk one hit` · `Cyberpunk no reload` · `Cyberpunk infinite RAM` · `Cyberpunk XP` · `Cyberpunk street cred` · `Phantom Liberty trainer` · `Cyberpunk cheats` · `Cyberpunk hack` · `Cyberpunk trainer v1.2.0`
-
-**Forza Horizon 6 / 5:** `Forza Horizon 6 trainer` · `Forza Horizon 5 trainer` · `Redline trainer` · `Forza credits hack` · `Forza infinite boost` · `Forza no damage` · `Forza free cars` · `Forza auto win` · `Forza wheelspins` · `ForzaHorizon6.exe trainer` · `ForzaHorizon5.exe trainer` · `Forza cheats` · `Forza hack` · `Forza trainer v1.2.0`
-
-**Gothic 1 Remake:** `Gothic 1 Remake trainer` · `Gothic Remake trainer download` · `G1R trainer` · `G1R-Win64-Shipping.exe trainer` · `Gothic god mode` · `Gothic infinite HP` · `Gothic infinite mana` · `Gothic XP hack` · `Gothic ore hack` · `Gothic lockpicks` · `Gothic strength` · `Gothic Remake cheats` · `Gothic Remake hack` · `Gothic trainer v1.2.0`
-
-**Assassin's Creed Black Flag Resynced:** `AC Black Flag Resynced trainer` · `ACBFResynced trainer` · `BlackSails trainer` · `ACBlackFlag.exe trainer` · `Black Flag Resynced god mode` · `Black Flag money` · `Black Flag Jackdaw` · `Black Flag teleport` · `Black Flag one hit` · `ACBFResynced cheats` · `Assassin's Creed Black Flag Resynced hack` · `ACBFResynced trainer v1.4.0`
-
-**Resident Evil 4 Remake:** `скачать трейнер RE4 Remake` · `трейнер Resident Evil 4 Remake` · `RE4 читы` · `RE4 взлом` · `SurvivorForge` · `re4.exe трейнер` · `RE4 god mode` · `RE4 бессмертие` · `RE4 бесконечные патроны` · `RE4 песеты` · `RE4 ваншот` · `RE4 наёмники` · `RE4 разблокировка оружия` · `RE4 крафт` · `скачать трейнер RE4 Remake v1.2.0` · `трейнер RE4 бесплатно`
-
-**Resident Evil Requiem:** `скачать трейнер Resident Evil Requiem` · `трейнер RE9` · `RequiemForge` · `re9.exe трейнер` · `RE9 читы` · `RE9 взлом` · `RE9 god mode` · `RE9 бесконечные патроны` · `RE9 ваншот` · `RE9 auto qte` · `RE9 кредиты` · `RE9 телепорт` · `скачать трейнер RE Requiem v1.2.0`
-
-**Elden Ring:** `скачать трейнер Elden Ring` · `Elden Ring трейнер` · `TarnishedForge` · `eldenring.exe трейнер` · `Elden Ring читы` · `Elden Ring взлом` · `Elden Ring god mode` · `Elden Ring бесконечное HP` · `Elden Ring руны` · `Elden Ring ваншот` · `Elden Ring карта` · `скачать трейнер Elden Ring v1.2.0`
-
-**DOOM The Dark Ages:** `скачать трейнер DOOM The Dark Ages` · `DOOM Dark Ages трейнер` · `SlayerForge` · `DOOM Dark Ages читы` · `DOOM Dark Ages взлом` · `DOOM Dark Ages god mode` · `DOOM Dark Ages патроны` · `DOOM Dark Ages ваншот` · `DOOM Dark Ages золото` · `DOOM Dark Ages мех` · `DOOM Dark Ages дракон` · `скачать трейнер DOOM Dark Ages v1.2.0`
-
-**Crimson Desert:** `скачать трейнер Crimson Desert` · `Crimson Desert трейнер` · `Crimson Desert читы` · `Crimson Desert взлом` · `Crimson Desert HP` · `Crimson Desert выносливость` · `Crimson Desert ваншот` · `Crimson Desert деньги` · `Crimson Desert скорость` · `скачать трейнер Crimson Desert v1.2.0`
-
-**Cyberpunk 2077:** `скачать трейнер Cyberpunk 2077` · `Cyberpunk трейнер` · `NetrunnerForge` · `Cyberpunk читы` · `Cyberpunk взлом` · `Cyberpunk god mode` · `Cyberpunk деньги` · `Cyberpunk эдди` · `Cyberpunk ваншот` · `Cyberpunk без перезарядки` · `Cyberpunk RAM` · `Phantom Liberty трейнер` · `скачать трейнер Cyberpunk 2077 v1.2.0`
-
-**Forza Horizon 6 / 5:** `скачать трейнер Forza Horizon 6` · `трейнер Forza Horizon 5` · `Redline трейнер` · `Forza кредиты` · `Forza буст` · `Forza без урона` · `Forza бесплатные машины` · `Forza автопобеда` · `Forza wheelspins` · `скачать трейнер Forza v1.2.0`
-
-**Gothic 1 Remake:** `скачать трейнер Gothic 1 Remake` · `Gothic Remake трейнер` · `Gothic читы` · `Gothic взлом` · `Gothic god mode` · `Gothic мана` · `Gothic опыт` · `Gothic руда` · `Gothic отмычки` · `скачать трейнер Gothic Remake v1.2.0`
-
-**Assassin's Creed Black Flag Resynced:** `скачать трейнер AC Black Flag Resynced` · `ACBFResynced трейнер` · `BlackSails` · `Black Flag Resynced читы` · `Black Flag Resynced взлом` · `Black Flag god mode` · `Black Flag деньги` · `Black Flag Jackdaw` · `Black Flag телепорт` · `скачать трейнер ACBFResynced v1.4.0`
-
-
-### Wave update tags
-
-`trainer v1.2.0` · `trainer v1.4.0` · `обновление трейнеров август 2026` · `TrainerHub MoggyDay update` · `attach fix trainer` · `god mode stability update` · `github trainers pack 2026` · `скачать все трейнеры TrainerHub MoggyDay` · `download all TrainerHub MoggyDay trainers` · `RE4 Remake v1.2.0` · `RE Requiem v1.2.0` · `Elden Ring v1.2.0` · `DOOM Dark Ages v1.2.0` · `Crimson Desert v1.2.0` · `Cyberpunk 2077 v1.2.0` · `Forza Horizon 6 v1.2.0` · `Gothic 1 Remake v1.2.0` · `ACBFResynced v1.4.0` · `BlackSails v1.4.0`
-
-### Extra
-
-`trainerhub moggyday trainers` · `moggyday trainers github` · `survivorforge` · `requiemforge` · `tarnishedforge` · `slayerforge` · `netrunnerforge` · `redline trainer` · `blacksails trainer` · `acbfresynced` · `game trainer pack 2026` · `multi game trainer hub` · `github game trainers` · `download all trainers` · `latest trainer updates` · `trainer v1.2.0` · `trainer v1.4.0` · `god mode infinite ammo one hit` · `money credits runes pesetas eddies` · `mercenaries auto qte map unlock teleport` · `jackdaw mech dragon phantom liberty` · `single player offline cheats only` · `windows 10 11 trainer download free`
+<p align="center"><sub>TrainerHub MoggyDay · Александор · v1.3.0 / v1.5.0 · EN / RU / CN · https://moggydaytrainer.com/</sub></p>
